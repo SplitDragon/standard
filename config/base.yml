@@ -1625,11 +1625,11 @@ Style/PercentLiteralDelimiters:
   Enabled: true
   PreferredDelimiters:
     default: ()
-    '%i': '[]'
-    '%I': '[]'
+    '%i': '()'
+    '%I': '()'
     '%r': '{}'
-    '%w': '[]'
-    '%W': '[]'
+    '%w': '()'
+    '%W': '()'
 
 Style/PercentQLiterals:
   Enabled: false
